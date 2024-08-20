@@ -1,4 +1,4 @@
-# My Project
+# AUTOGEN - FASTAPI
 
 ## How to Run This Application
 

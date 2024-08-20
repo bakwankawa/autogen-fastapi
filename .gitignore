@@ -1,5 +1,6 @@
 # Ignore virtual environment
 .venv/
+.DS_Store
 
 # Ignore Python bytecode
 app/__pycache__/
